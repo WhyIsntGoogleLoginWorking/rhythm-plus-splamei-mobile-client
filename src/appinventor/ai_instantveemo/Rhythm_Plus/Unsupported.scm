@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"228","Source":"Form","Properties":{"$Name":"Unsupported","$Type":"Form","$Version":"31","AccentColor":"&HFFA281ED","ActionBar":"True","AlignHorizontal":"3","AlignVertical":"2","AppName":"Rhythm_Plus","BackgroundColor":"&HFF000000","PrimaryColor":"&HFF000000","PrimaryColorDark":"&HFF000000","ShowStatusBar":"False","Theme":"AppTheme","Title":"Unsupported","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"Label1","$Type":"Label","$Version":"5","FontSize":"25","Width":"-1085","Text":"Sorry. You device is unsupported. Please use a new Android device. If you can't you can still use the website","TextAlignment":"1","TextColor":"&HFFFFFFFF","Uuid":"-2121987885"}]}}
+|#

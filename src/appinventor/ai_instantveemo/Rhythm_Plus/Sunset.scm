@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"228","Source":"Form","Properties":{"$Name":"Sunset","$Type":"Form","$Version":"31","AccentColor":"&HFFA281ED","ActionBar":"True","AlignHorizontal":"3","AlignVertical":"2","AppName":"Rhythm_Plus","BackgroundColor":"&HFF000000","PrimaryColor":"&HFF000000","PrimaryColorDark":"&HFF000000","ShowStatusBar":"False","Theme":"AppTheme","Title":"Sunset","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"Label1","$Type":"Label","$Version":"5","FontSize":"40","Width":"-1070","Text":"It's been fun","TextAlignment":"1","TextColor":"&HFFFFFFFF","Uuid":"-683346737"},{"$Name":"Label2","$Type":"Label","$Version":"5","Text":" ","Uuid":"1420163951"},{"$Name":"Label3","$Type":"Label","$Version":"5","FontSize":"20","Width":"-1090","Text":"Thanks for playing but it's time to move on. The app will no longer function so please uninstall.","TextAlignment":"1","TextColor":"&HFFFFFFFF","Uuid":"-716724931"}]}}
+|#
