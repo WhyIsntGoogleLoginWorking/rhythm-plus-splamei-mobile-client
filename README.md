@@ -10,6 +10,15 @@ This custom client for the [Rhythm Plus game](https://rhythm-plus.com) for playi
  4. Google Play Protect may want to scan the app. Allow it as otherwise you can't install the client
  5. Wait for the install to complete. Then you can play
 
+## Use of this code
+
+You can use the code here to make your own custom client. Just please do the following
+
+ - Mension your client is based on this client
+ - Chnage the spreadsheet use for update handling or fully change how it works
+ - If you want, remove the notices feature
+ - Chnage the package name
+
 ## Credits
 Made in MIT App Inventor
 By Splamei
