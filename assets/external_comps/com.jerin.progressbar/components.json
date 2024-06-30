@@ -1,0 +1,91 @@
+[{
+ "categoryString": "EXTENSION",
+ "nonVisible": "true",
+ "iconName": "http://res.cloudinary.com/gdguru111/image/upload/c_scale,h_33/v1531905124/basic2-090_loader_loading-128_qckgzu.png",
+ "methods": [
+  {
+   "deprecated": "false",
+   "name": "LinearProgress",
+   "description": "Method for LinearProgress",
+   "params": [{
+    "name": "showOnArrangement",
+    "type": "component"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "NougatProgress",
+   "description": "Method for NougatProgress",
+   "params": [{
+    "name": "showOnArrangement",
+    "type": "component"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "SpinnerProgress",
+   "description": "Method for SpinnerProgress",
+   "params": [{
+    "name": "showOnArrangement",
+    "type": "component"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "StyledProgress",
+   "description": "Method for StyledProgress",
+   "params": [{
+    "name": "showOnArrangement",
+    "type": "component"
+   }]
+  }
+ ],
+ "blockProperties": [
+  {
+   "rw": "read-write",
+   "deprecated": "false",
+   "name": "ProgressColor",
+   "description": "The color of extra text at the bottom Title.",
+   "type": "number"
+  },
+  {
+   "rw": "invisible",
+   "deprecated": "false",
+   "name": "ProgressStyle",
+   "description": "Allows you to specify animation style of ProgressBar",
+   "type": "text"
+  },
+  {
+   "rw": "read-write",
+   "deprecated": "false",
+   "name": "Visible",
+   "description": "",
+   "type": "boolean"
+  }
+ ],
+ "helpUrl": "",
+ "type": "com.jerin.progressbar.InfiniteProgressBars",
+ "version": "2",
+ "external": "true",
+ "showOnPalette": "true",
+ "name": "InfiniteProgressBars",
+ "helpString": "<p>This extension  will allow you to setup progress bars using different animation styles.<br>By Jerin Jacob.<br><p><li> RotatingPlane<li> DoubleBounce<li> Wave<li> WanderingCubes<li> Pulse<li> ChasingDots<li> ThreeBounce<li> Circle<li> CubeGrid<li> FadingCircle<li> FoldingCube<li> RotatingCircle<p> <a href = \"https://community.thunkable.com/t/free-extension-infinityprogressbars/36392?u=jerin_jacob\" target = \"_blank\">More Info<\/a> <br><a href = \"https://paypal.me/JAKSONJACOBP\" target = \"_blank\">Donate<\/a> <br>",
+ "properties": [
+  {
+   "defaultValue": "&HFF00FFFF",
+   "name": "ProgressColor",
+   "editorType": "color"
+  },
+  {
+   "defaultValue": "Wave",
+   "name": "ProgressStyle",
+   "editorType": "progress_options"
+  },
+  {
+   "defaultValue": "True",
+   "name": "Visible",
+   "editorType": "boolean"
+  }
+ ],
+ "events": []
+}]
